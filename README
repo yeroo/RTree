@@ -1,0 +1,8 @@
+C# Spatial Index (RTree) Library Modified
+
+Changes:
+	GitHub
+	float to double
+	removed log4net refreneces and all logging shit
+
+If you need original version, please visit http://sourceforge.net/projects/cspatialindexrt/
